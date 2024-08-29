@@ -39,7 +39,7 @@ export default function Home() {
                 </button>
                 <p className="mt-2">{player.score}</p>
                 <button className="w-10 h-10 rounded-full bg-slate-300 ">
-                  +
+                  -
                 </button>
               </div>
             </div>
